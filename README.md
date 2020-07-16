@@ -8,14 +8,13 @@ you'll need to give BombSquad access to the storage. You can do that by clicking
 
 Platform | Path
 ------------ | -------------
-OS X |	~/Library/Containers/net.froemling.bombsquad/Data/Library/Application Support/BombSquad/mods
-Android |	*<sdcard>*/BombSquad/mods
+OS X | ~/Library/Containers/net.froemling.bombsquad/Data/Library/Application Support/BombSquad/mods
+Android |	<*sdcard*>/BombSquad/mods
 Windows |	%appdata%/BombSquad/mods
 Linux |	~/.bombsquad/mods
 
 Or put it in the `script` folder.
 
 ## Usage
+Version compatible with 1.4 API
 ![Speed Shoes](http://s12.picofile.com/file/8403103176/Speed_Shoes.png)
-
-## License
