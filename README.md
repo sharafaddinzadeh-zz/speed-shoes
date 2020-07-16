@@ -16,5 +16,6 @@ Linux |	~/.bombsquad/mods
 Or put it in the `script` folder.
 
 ## Usage
-Version compatible with 1.4 API
+Compatible with API version 1.4
+
 ![Speed Shoes](http://s12.picofile.com/file/8403103176/Speed_Shoes.png)
